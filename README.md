@@ -10,6 +10,6 @@ Download the latest JAR release, and run it with the following command:
 
     java --module-path=[PATH_TO_JAVAFX_SDK_ROOT]/lib --add-modules=javafx.controls,javafx.fxml -jar TelepathyClient-x.x.x.jar
 
-For example, if JavaFX is install to ```/home/thor/dev/javafx-sdk-11.0.1```, and have version 0.2.0 of the Telepathy Client installed:
+For example, if JavaFX is installed to ```/home/thor/dev/javafx-sdk-11.0.1```, and you have version 0.2.0 of the Telepathy Client installed:
 
     java --module-path=/home/thor/dev/javafx-sdk-11.0.1/lib --add-modules=javafx.controls,javafx.fxml -jar TelepathyClient-0.2.0.jar
